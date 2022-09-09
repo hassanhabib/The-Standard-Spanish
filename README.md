@@ -47,7 +47,7 @@ Charla con nosotros aquí:
     - [0.2.2 Mono-Micro](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.2%20Principios.md#022-mono-micro)
     - [0.2.3 Nivel 0](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.2%20Principios.md#023-nivel-0)
     - [0.2.4 Código Abierto](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.2%20Principios.md#024-codigo-abierto)
-    - [0.2.5 Modo Avión (Nube-extrangera)](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.2%20Principios.md#025-modo-avion-nube-extrangera)
+    - [0.2.5 Modo Avión (Nube-extranjera)](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.2%20Principios.md#025-modo-avion-nube-extranjera)
     - [0.2.6 Sin Tostadoras](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.2%20Principios.md#026-sin-tostaroras)
 - [1 Agentes](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/1.%20Agentes/1.%20Agentes.md#1-agentes)
   - [1.0 Introducción](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/1.%20Agentes/1.%20Agentes.md#10-Introduccion)
