@@ -4,7 +4,7 @@ Charla con nosotros aquí:
 # Discord
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
-- [0 Introducción](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduccion/0.%20Introduccion.md)
+- [0 Introducción](https://github.com/hassanhabib/The-Standard/blob/main/0.%20Introduccion/0.%20Introduccion.md)
   - [0.0 La Teoría](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#00-la-teoria)
     - [0.0.0 Introducción](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#000-Introduccion)
     - [0.0.1 Encontrando respuestas](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#001-encontrando-respuestas)
