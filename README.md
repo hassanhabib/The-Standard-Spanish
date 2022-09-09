@@ -2,7 +2,7 @@
 
 Charla con nosotros aquí:
 # Discord
-[![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2) (Pendiente)](https://discord.gg/vdPZ7hS52X)
+[![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
 - [0 Introducción](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.%20Introduccion.md)
   - [0.0 La Teoría (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#00-la-teoria)
