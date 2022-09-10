@@ -247,3 +247,17 @@ Charla con nosotros aquí:
           - [3.2.1.2.0.2 Páginas (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/3.%20Expositores/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321202-paginas)
           - [3.2.1.2.0.3 Discreción (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/3.%20Expositores/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321203-discrecion)
           - [3.2.1.2.0.4 Organización (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/3.%20Expositores/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321204-organizacion)
+
+## Traducciones
+- [El Estándar en Árabe](https://github.com/hassanhabib/The-Standard-Arabic)
+- [El Estándar en Francés](https://github.com/hassanhabib/The-Standard-French)
+- [El Estándar en Italiano](https://github.com/hassanhabib/The-Standard-Italian)
+- [El Estándar en Malasio](https://github.com/hassanhabib/The-Standard-Malaysian)
+- [El Estándar en Ucraniano](https://github.com/hassanhabib/The-Standard-Ukrainian)
+- [El Estándar en Uzbeko](https://github.com/hassanhabib/The-Standard-Uzbek)
+- [El Estándar en Alemán](https://github.com/hassanhabib/The-Standard-German)
+- [El Estándar en Español](https://github.com/hassanhabib/The-Standard-Spanish)
+- [El Estándar en Turco](https://github.com/hassanhabib/The-Standard-Turkish)
+- [El Estándar en Griego](https://github.com/hassanhabib/The-Standard-Greek)
+- [El Estándar en Albano](https://github.com/hassanhabib/The-Standard-Albanian)
+- [El Estándar en Portugués](https://github.com/hassanhabib/The-Standard-Portuguese)
