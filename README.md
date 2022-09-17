@@ -6,7 +6,7 @@ Charla con nosotros aquí:
 
 - [0 Introducción](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.%20Introduccion.md)
   - [0.0 La Teoría](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#00-la-teor%C3%ADa)
-    - [0.0.0 Introducción](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#000-Introducci%C3%B3n)
+    - [0.0.0 Introducción](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#000-introducci%C3%B3n)
     - [0.0.1 Encontrando respuestas](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#001-encontrando-respuestas)
     - [0.0.2 Naturaleza Ternaria](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#002-naturaleza-ternaria)
       - [0.0.2.0 Propósito](https://github.com/hassanhabib/The-Standard-Spanish/blob/master/0.%20Introduccion/0.0%20La%20Teoria.md#0020-prop%C3%B3sito)
