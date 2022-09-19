@@ -263,3 +263,6 @@ Charla con nosotros aquí:
 - [El Estándar en Griego](https://github.com/hassanhabib/The-Standard-Greek)
 - [El Estándar en Albano](https://github.com/hassanhabib/The-Standard-Albanian)
 - [El Estándar en Portugués](https://github.com/hassanhabib/The-Standard-Portuguese)
+- [El Estándar en Cingalés](https://github.com/hassanhabib/The-Standard-Sinhala)
+- [El Estándar en Hindi](https://github.com/hassanhabib/The-Standard-Hindi)
+- [El Estándar en Búlgaro](https://github.com/hassanhabib/The-Standard-Bulgarian)
