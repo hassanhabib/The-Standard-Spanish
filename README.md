@@ -40,7 +40,7 @@ Charla con nosotros aquí:
     - [0.2.0 Personas Primero](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#020-personas-primero)
       - [0.2.0.0 Simplicidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#0200-simplicidad)
         - [0.2.0.0.0 Herencia Excesiva](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#02000-herencia-excesiva)
-        - [0.2.0.0.1 Enredo](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#02001-enredo)
+        - [0.2.0.0.1 Entrelazamiento](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#02001-entrelazamiento)
         - [0.2.0.0.2 Componentes Autónomos](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#02002-componentes-aut%C3%B3nomos)
           - [0.2.0.0.2.0 Sin magia](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#020020-sin-magia)
     - [0.2.1 Reescribibilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/0.%20Introduccion/0.2%20Principios.md#021-reescribibilidad)
