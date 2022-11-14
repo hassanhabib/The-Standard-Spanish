@@ -275,3 +275,4 @@ Charla con nosotros aquí:
 - [El Estándar en R](https://github.com/hassanhabib/StandardR)
 - [El Estándar en Kotlin](https://github.com/hassanhabib/StandardKotlin)
 - [El Estándar en Java](https://github.com/hassanhabib/StandardJava)
+- [El Estándar en Python](https://github.com/hassanhabib/StandardPython)
