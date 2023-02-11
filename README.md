@@ -70,7 +70,7 @@ Charla con nosotros aquí:
   - [1.5 Implementación](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.%20Agentes.md#15-implementaci%C3%B3n)
   - [1.6 Resumen](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.%20Agentes.md#16-resumen)
   - [1.7 Preguntas Frecuentes](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.%20Agentes.md#17-preguntas-frecuentes)
-  - [1.8 Librerías de Abstracción de Proveedores Estandarizados (SPAL)](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md)
+  - [1.8 Librerías de Abstracción de Proveedores Estandarizados (SPAL)](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstraccion%20Proveedor.md)
     - [1.8.0 Extensibilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#180-extensibilidad)
       - [1.8.0.0 Configurabilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#1800-configurabilidad)
     - [1.8.1 Distribuibilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#181-distribuibilidad)
