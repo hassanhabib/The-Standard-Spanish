@@ -74,7 +74,7 @@ Charla con nosotros aquí:
     - [1.8.0 Extensibilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstraccion%20Proveedor.md#180-extensibilidad)
       - [1.8.0.0 Configurabilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstraccion%20Proveedor.md#1800-configurabilidad)
     - [1.8.1 Distribuibilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstraccion%20Proveedor.md#181-distribuibilidad)
-    - [1.8.2 Mockabilidad Externa](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstraccion%20Proveedor.md#182-mockabilidad-external-cloud-foreign)
+    - [1.8.2 Mockabilidad Externa](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstraccion%20Proveedor.md#182-mockabilidad-externa-cloud-foreign)
     - [1.8.3 Local a Global](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstraccion%20Proveedor.md#183-local-a-global)
 - [2 Servicios](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/2.%20Servicios/2.%20Servicios.md#2servicios)
   - [2.0 Introducción](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/2.%20Servicios/2.%20Servicios.md#20-Introducci%C3%B3n)
