@@ -1,4 +1,4 @@
-# El Estándar (v 2.0.3)
+# El Estándar (v 1444.06.14)
 
 Charla con nosotros aquí:
 # Discord
