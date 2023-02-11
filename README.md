@@ -70,6 +70,12 @@ Charla con nosotros aquí:
   - [1.5 Implementación](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.%20Agentes.md#15-implementaci%C3%B3n)
   - [1.6 Resumen](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.%20Agentes.md#16-resumen)
   - [1.7 Preguntas Frecuentes](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.%20Agentes.md#17-preguntas-frecuentes)
+  - [1.8 Librerías de Abstracción de Proveedores Estandarizados (SPAL)](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md)
+    - [1.8.0 Extensibilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#180-extensibilidad)
+      - [1.8.0.0 Configurabilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#1800-configurabilidad)
+    - [1.8.1 Distribuibilidad](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#181-distribuibilidad)
+    - [1.8.2 Mockabilidad Externa](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#182-mockabilidad-external-cloud-foreign)
+    - [1.8.3 Local a Global](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/1.%20Agentes/1.8%20Agente%20de%20Abstracci%C3%B3n%20Proveedor.md#183-local-a-global)
 - [2 Servicios](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/2.%20Servicios/2.%20Servicios.md#2servicios)
   - [2.0 Introducción](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/2.%20Servicios/2.%20Servicios.md#20-Introducci%C3%B3n)
     - [2.0.0 Operaciones de Servicios](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/2.%20Servicios/2.%20Servicios.md#200-operaciones-de-servicios)
@@ -96,7 +102,7 @@ Charla con nosotros aquí:
     - [2.1.3 Responsabilidades (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#213-responsabilidades)
       - [2.1.3.0 Abstracción (Pendiente)](https://github.com/hassanhabib/The-Standard/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#2130-abstracci%C3%B3n)
         - [2.1.3.0.1 Implementación (Pendiente)](https://github.com/hassanhabib/The-Standard/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#21301-implementaci%C3%B3n)
-      - [2.1.3.1 Validacación (Pendiente)](https://github.com/hassanhabib/The-Standard/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#2131-validaci%C3%B3n)
+      - [2.1.3.1 Validación (Pendiente)](https://github.com/hassanhabib/The-Standard/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#2131-validaci%C3%B3n)
         - [2.1.3.1.0 Validaciones de Circuito Cortado (Pendiente)](https://github.com/hassanhabib/The-Standard/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#21310-validaciones-de-circuito-cortado)
         - [2.1.3.1.1 Validaciones Continuas (Pendiente)](https://github.com/hassanhabib/The-Standard/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#21311-validaciones-continuas)
           - [2.1.3.1.1.0 Excepciones Alterables (Pendiente)](https://github.com/hassanhabib/The-Standard/blob/main/2.%20Servicios/2.1%20Fundamentales/2.1%20Fundamentales.md#213110-excepciones-alterables)
@@ -259,6 +265,12 @@ Charla con nosotros aquí:
           - [3.2.1.2.0.2 Páginas (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/3.%20Expositores/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321202-paginas)
           - [3.2.1.2.0.3 Discreción (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/3.%20Expositores/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321203-discrecion)
           - [3.2.1.2.0.4 Organización (Pendiente)](https://github.com/hassanhabib/The-Standard-Spanish/blob/main/3.%20Expositores/3.2%20User%20Interfaces/3.2.1%20Web%20Applications/3.2.1%20Web%20Applications.md#321204-organizacion)
+
+## Otros Recursos
+- Guías para [Estándares para Codificación C#](https://github.com/hassanhabib/CSharpCodingStandard/blob/master/Readme.md) 
+- [El Equipo Estándar](https://github.com/hassanhabib/The-Standard-Team/blob/main/README.md) es ingeniería Estándar para la cultura, las prácticas y el código de conducta del equipo de ingeniería.
+- [El Estándar para Diseño de Sistemas Y Arquitectura](https://github.com/hassanhabib/The-Standard-Systems-Design/blob/main/README.md)
+- [El Códex Estandard](https://github.com/hassanhabib/The-Standard-Codex/blob/main/README.md) - No es suficiente con conocer la verdad, debes tener el coraje de hacerla existir.
 
 ## Traducciones
 - [El Estándar en Árabe](https://github.com/hassanhabib/The-Standard-Arabic)
